@@ -1,0 +1,21 @@
+{
+    "user": [
+        {
+            "tk": "manh",
+            "mk": "manh",
+            "list": [
+                {
+                    "id": "1",
+                    "tieuDe": "aaa",
+                    "noiDung": "bbb"
+                },
+                {
+                    "id": "2",
+                    "tieuDe": "aaa",
+                    "noiDung": "bbb"
+                }
+            ],
+            "id": "1"
+        }
+    ]
+}
